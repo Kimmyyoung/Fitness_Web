@@ -1,6 +1,5 @@
 import React from 'react';
 import {Box, Stack, Typography } from '@mui/material';
-import { LocalDining } from '@mui/icons-material';
 
 
 const ExerciseVideo = ({ exerciseVideos, name }) => {
