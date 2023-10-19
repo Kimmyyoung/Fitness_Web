@@ -1,70 +1,53 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<div align=center>
 
-### `npm start`
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=120&animation=blinking&desc=My%20name%20is%20Kim%20:)&descAlignY=70" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3> :wave: Introduction </h3>
+<hr/>
+  <p>I am an experienced Web Site Developer based in Vancouver, BC, Canada. I love combining the worlds of logic and creative website to make eye-catching, accessible, and    user-friendly web and applications. My interest in development started back in 2013 when I studied computer science at University. I have a serious passion for coding    and dynamic user experience. </p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+  <h3> :gift_heart: Fitness API Website </h3>
+  <hr/>
+  <p> Project to practice use an API source </p>
+  
+  
+  
+<h3> :sparkles: Preview </h3>
+<hr/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://i.ibb.co/5WqyLPK/Clean-Shot-2023-10-19-at-12-35-51.png" alt="Clean-Shot-2023-10-19-at-12-35-51" border="0">
 
-### `npm run build`
+<h3> :link: Web Link </h3>
+<hr/>
+  <a href="https://fitness-hykim.netlify.app/"><p>Click ✔️: </p></a>
+  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3> :memo: Platforms & Languages  </h3>
+<hr/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<h3> 💙 Libraries  </h3>
+<hr/>
+  <p>React-Horizontal-Scrolling-Menu</p>
+  <p>React-Loader-Spinner</p>
+  <p>Rapid API</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h3> :hammer: Tools </h3>
+<hr/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
